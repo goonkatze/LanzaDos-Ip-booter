@@ -1,6 +1,5 @@
-# 🚀 LanzaDos Proxy Manager
+# 🚀 LanzaDos - IP BOOTER
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/goonkatze/LanzaDos-Ip-booter/python-app.yml?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/goonkatze/LanzaDos-Ip-booter?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/goonkatze/LanzaDos-Ip-booter?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/goonkatze/LanzaDos-Ip-booter?style=for-the-badge)
