@@ -5,27 +5,30 @@
 ![GitHub license](https://img.shields.io/github/license/goonkatze/LanzaDos-Ip-booter?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/goonkatze/LanzaDos-Ip-booter?style=for-the-badge)
 
-Ein Tool zur **Verwaltung und Nutzung von Proxies** für Netzwerk-Tests, Performance-Analysen oder Web-Scraping 🌐.  
-⚠️ Hinweis: Dieses Tool ist nur für **legale Tests und eigene Server** vorgesehen.
+A tool for **managing and using proxies** for network testing, performance analysis, or web scraping 🌐.  
+⚠️ Note: This tool is intended **only for legal testing on your own servers**.
 
 ---
 
 ## ✨ Features
 
-- 🔄 Proxy-Rotation für Anfragen  
-- 🛡 Unterstützung von **HTTP**, **HTTPS** und **SOCKS5**  
-- ⏱ Konfigurierbare Timeouts & Retry-Mechanismen  
-- 📜 Logging von Erfolgen und Fehlern  
-- 🧩 Einfach zu erweitern und anzupassen  
+- 🔄 Proxy rotation for requests
+- 👩‍💻 Stay anonymous
+- 🛡 Supports **HTTP**, **HTTPS**, **TCP** and **UDP**  
+- 📜 Logging of failed connections  
+- 🧩 Easy to extend and customize  
 
 ---
 
 ## 🛠 Installation
 
 ```bash
-# Repository klonen
+# Clone the repository
 git clone https://github.com/goonkatze/LanzaDos-Ip-booter.git
 cd LanzaDos-Ip-booter
 
-# Abhängigkeiten installieren
-pip install -r requirements.txt
+# Install dependencies
+# LINUX
+./installer.sh
+Windows
+./installer.bat
